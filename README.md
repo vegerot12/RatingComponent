@@ -1,5 +1,12 @@
 # Components REact ui
 
+Nested Checkboxes
+- click parent -> all level inner child checked
+- all child checked -> parent gets checked
+- uncheck one child parent ( all level ) gets unchecked
+  https://stackblitz.com/edit/vitejs-vite-ibzadbxh?file=src%2FCheckboxes.jsx
+  https://vitejsviteibzadbxh-2440--5173--cf284e50.local-credentialless.webcontainer.io/
+
 Form in react - WIP 
 https://stackblitz.com/edit/react-sbgmdzm8?file=src%2FApp.js
 https://react-sbgmdzm8.stackblitz.io
@@ -35,6 +42,8 @@ https://stackblitz.com/edit/stackblitz-starters-wb1iyv?file=src%2Fcomponents%2FT
 
 Folder
 https://stackblitz-starters-rww7d2.stackblitz.io
+
+
 https://stackblitz.com/edit/stackblitz-starters-rww7d2?file=src%2Fcomponents%2FFolder.js
 
 InfiniteScroll
