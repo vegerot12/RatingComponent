@@ -1,5 +1,9 @@
 # Components REact ui
 
+Chips component from input
+https://stackblitz.com/edit/vitejs-vite-ag4dtvsc?file=src%2FApp.jsx
+https://vitejsviteag4dtvsc-li2g--5173--cf284e50.local-credentialless.webcontainer.io/
+
 Nested Checkboxes
 - click parent -> all level inner child checked
 - all child checked -> parent gets checked
